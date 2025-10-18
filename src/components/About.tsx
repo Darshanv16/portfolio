@@ -26,7 +26,7 @@ const About = () => {
           <h2 className="text-4xl font-bold mb-4">About Me</h2>
           <div className="w-24 h-1 bg-gradient-to-r from-blue-400 to-purple-500 mx-auto mb-4"></div>
           <p className="text-gray-400 max-w-2xl mx-auto">
-            A passionate developer and entrepreneur on a mission to create impactful digital experiences
+            A passionate developer on a mission to create impactful digital experiences
           </p>
         </div>
 
