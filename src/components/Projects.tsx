@@ -3,12 +3,12 @@ import { ExternalLink, Github } from 'lucide-react';
 const Projects = () => {
   const projects = [
     {
-      title: "Doctor Appointment",
-      description: "A doctor appointment booking system implemented using JavaScript and Node.js is a web-based application designed to facilitate efficient scheduling and management of medical appointments.",
-      image: "https://c8.alamy.com/comp/HGE1CH/doctors-medical-appointment-doctor-medicine-ill-illness-healthy-health-HGE1CH.jpg",
-      tags: ["Javascript", "Node.js", "Mongo DB"],
+      title: "Sunny-Camp",
+      description: "A comprehensive camping and outdoor adventure platform featuring campsite listings, booking management, and user reviews. Built with React and modern web technologies.",
+      image: "https://images.squarespace-cdn.com/content/v1/55774404e4b07f2c7dc881a0/1606951149963-LMWL0OBH837Y2585LHXC/DSC01107.jpg",
+      tags: ["Javascript", "TypeScript", "Supabase"],
       github: "https://github.com/Darshanv16",
-      live: "https://Doctor-appointment-Webapp.netlify.app/"
+      live: "https://sunny-camp.netlify.app/"
     },
     {
       title: "Spotify Song Recommender",
